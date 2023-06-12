@@ -1,0 +1,3 @@
+2023-06-12 09:30:58.749 [http-nio-80-exec-9] ERROR ca.bytetube.communityApp.util.ImageUtil - java.io.FileNotFoundException: \Users\HaoShi\Desktop\image\upload\images\item\shop\1\2023061209305834015.png (系统找不到指定的路径。)
+2023-06-12 09:31:20.730 [http-nio-80-exec-1] ERROR ca.bytetube.communityApp.util.ImageUtil - java.io.FileNotFoundException: \Users\HaoShi\Desktop\image\upload\images\item\shop\1\2023061209312035126.png (系统找不到指定的路径。)
+2023-06-12 09:31:56.160 [http-nio-80-exec-7] ERROR ca.bytetube.communityApp.util.ImageUtil - java.io.FileNotFoundException: \Users\HaoShi\Desktop\image\upload\images\item\shop\1\2023061209315652042.jpg (系统找不到指定的路径。)
